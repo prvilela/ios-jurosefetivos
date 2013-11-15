@@ -1,4 +1,4 @@
-ios-calculadojuros
+ios-jurosefetivos
 ==================
 
 iOS Calculador de Juros
